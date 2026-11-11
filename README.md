@@ -388,6 +388,6 @@ This project demonstrates practical use of:
 
 ## Author
 
-**Atish Vijay Udawant**
+**NERUSU PRAVEEN KUMAR**
 
-For academic demonstration and portfolio use. Update this section with your GitHub profile, project video, circuit diagram, or hardware photographs if available.
+
